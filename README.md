@@ -1,6 +1,9 @@
 <!-- PROJECT LOGO -->
 ![98A2904E-FBE4-40CF-A266-397D3E091824_1_105_c](https://github.com/studymlwithme/ML-Resources/assets/168506628/ae2a2718-5c7c-4f02-9ba8-1e4c25c2e522)
 
+<img src="https://github.com/studymlwithme/ML-Resources/assets/168506628/ae2a2718-5c7c-4f02-9ba8-1e4c25c2e522" width="100" height="200">
+
+
 <br />
 <p align="center">
   <a href="https://github.com/studymlwithme/ML-Resources">
