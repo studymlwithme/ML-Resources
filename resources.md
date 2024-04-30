@@ -1,12 +1,17 @@
+layout: page
+title: "ML Resources"
+permalink: /mlresources
+
 # Machine Learning Study Resources
 
-## General ML Resources
+## Go-To Resources
 
 - [CS229 Course Notes (Stanford)](https://cs229.stanford.edu/main_notes.pdf)
 - [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow (BOOK) ](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646)
 - [Pauls Online Math Notes](https://tutorial.math.lamar.edu/)
 - [math.libretexts.org/](https://math.libretexts.org/)
 - [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf)
+- [ChatGPT] (https://chat.openai.com/)
 
 
 ## Support Vector Machines (SVM)
@@ -55,3 +60,4 @@
 - [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/user_guide.html)
 - [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
+)
