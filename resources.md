@@ -11,7 +11,7 @@ permalink: /mlresources
 - [Pauls Online Math Notes](https://tutorial.math.lamar.edu/)
 - [math.libretexts.org/](https://math.libretexts.org/)
 - [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf)
-- [ChatGPT] (https://chat.openai.com/)
+- [ChatGPT](https://chat.openai.com/)
 
 
 ## Support Vector Machines (SVM)
