@@ -60,4 +60,4 @@ permalink: /mlresources
 - [Machine Learning Crash Course by Google](https://developers.google.com/machine-learning/crash-course)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/user_guide.html)
 - [Coursera: Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
-)
+
