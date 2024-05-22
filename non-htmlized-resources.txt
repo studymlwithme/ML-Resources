@@ -1,5 +1,5 @@
-Non-htmlized-resources
 
+(OLD - HTMLIZED)
 https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/version-control/how-to-setup-git/
 https://cli.github.com/manual/gh_auth_login
 https://cli.github.com/
@@ -55,3 +55,35 @@ https://math.libretexts.org/Bookshelves/Calculus/The_Calculus_of_Functions_of_Se
 https://www.youtube.com/watch?v=pBWV8GA7_tQ
 https://intellipaat.com/community/17198/svm-what-is-a-functional-margin
 https://www.jeremyjordan.me/support-vector-machines/#:~:text=Summary%3A%20The%20functional%20margin%20represents,distance%20from%20to%20the%20hyperplane.
+
+# Non-htmlized-resources
+
+NEW (5/22/24) 
+https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/
+https://jonathan-hui.medium.com/machine-learning-lagrange-multiplier-dual-decomposition-4afe66158c9
+https://www.youtube.com/watch?v=hQ4UNu1P2kw
+https://www.youtube.com/watch?v=YYbr2j2wQWM
+https://www.youtube.com/watch?v=c-iA43vPL9M
+https://www.math.toronto.edu/courses/mat237y1/20189/notes/Chapter2/S2.8.html#:~:text=Thus%20the%20Lagrange%20multiplier%20equations,0%2C%20or%20x%3D%CE%BB.
+https://math.libretexts.org/Bookshelves/Calculus/Vector_Calculus_(Corral)/02%3A_Functions_of_Several_Variables/2.07%3A_Constrained_Optimization_-_Lagrange_Multipliers
+https://towardsdatascience.com/multiple-linear-regression-a-deep-dive-f104c8ede236
+https://en.wikipedia.org/wiki/Probability_distribution
+https://www.google.com/search?q=what+does+the+logarithm+do&oq=what+does+the+logarithm+do&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCAgCEAAYFhgeMggIAxAAGBYYHjIICAQQABgWGB4yCAgFEAAYFhgeMggIBhAAGBYYHjIICAcQABgWGB4yCAgIEAAYFhgeMgoICRAAGA8YFhge0gEINDA5NmowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#vhid=TYMhcQ5gUGIz8M&vssid=l
+http://deeplearning.stanford.edu/tutorial/supervised/SoftmaxRegression/#:~:text=Softmax%20regression%20(or%20multinomial%20logistic,kinds%20of%20hand%2Dwritten%20digits.
+https://stats.stackexchange.com/questions/361247/multicollinearity-and-predictive-performance
+https://datascience.stackexchange.com/questions/37345/what-is-the-meaning-of-term-variance-in-machine-learning-model
+https://www.youtube.com/watch?v=G1WX5GiFSWQ
+https://link.springer.com/chapter/10.1007/978-0-585-25657-3_37
+https://stats.stackexchange.com/questions/1149/is-there-an-intuitive-explanation-why-multicollinearity-is-a-problem-in-linear-r
+https://medium.com/future-vision/collinearity-what-it-means-why-its-bad-and-how-does-it-affect-other-models-94e1db984168
+https://www.khanacademy.org/math/linear-algebra/vectors-and-spaces/linear-combinations/v/linear-combinations-and-span
+https://www.youtube.com/watch?v=nOFXLCCvtm0
+https://math.stackexchange.com/questions/20146/is-concavity-of-a-real-valued-function-on-a-euclidean-space-implied-by-concavity
+https://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/cvn/t#d:CvxSet
+https://mjo.osborne.economics.utoronto.ca/index.php/tutorial/index/1/cvn/t
+https://www.khanacademy.org/math/ap-calculus-ab/ab-diff-analytical-applications-new/ab-5-6b/v/analyzing-concavity-algebraically
+https://www.cs.cmu.edu/~ggordon/10725-F12/scribes/10725_Lecture3.pdf
+https://www.datacamp.com/tutorial/the-cross-entropy-loss-function-in-machine-learning
+https://www.cis.upenn.edu/~jean/math-deep.pdf
+https://medium.com/@mastafa.foufa/iii-analysing-this-must-read-for-maths-in-ml-b1882b48e10chttps://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/chapter16.03-Least-Squares-Regression-Derivation-Multivariable-Calculus.html
+https://towardsdatascience.com/multiple-linear-regression-a-deep-dive-f104c8ede236
