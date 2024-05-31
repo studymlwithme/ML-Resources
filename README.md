@@ -14,7 +14,7 @@
   <p align="center">
     Updated Daily, this repo contains all the resources I use each day to study Machine Learning.
     <br />
-    <a href="=https://studymlwithme.github.io/ML-Resources/resources.html"><strong>Explore the Resources! »</strong></a>
+    <a href="https://studymlwithme.github.io/ML-Resources/resources.html"><strong>Explore the Resources! »</strong></a>
     <br />
     <br />
     ·
