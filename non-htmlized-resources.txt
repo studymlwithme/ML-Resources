@@ -87,3 +87,22 @@ https://www.datacamp.com/tutorial/the-cross-entropy-loss-function-in-machine-lea
 https://www.cis.upenn.edu/~jean/math-deep.pdf
 https://medium.com/@mastafa.foufa/iii-analysing-this-must-read-for-maths-in-ml-b1882b48e10chttps://pythonnumericalmethods.studentorg.berkeley.edu/notebooks/chapter16.03-Least-Squares-Regression-Derivation-Multivariable-Calculus.html
 https://towardsdatascience.com/multiple-linear-regression-a-deep-dive-f104c8ede236
+(NEW - 5/30/24) 
+https://www.youtube.com/watch?v=Os4nboUEU5Q
+https://personal.math.ubc.ca/~feldman/m226/multiLagrange.pdf
+https://en.wikipedia.org/wiki/Lagrange_multiplier
+https://home.cc.umanitoba.ca/~lovetrij/cECE7670/2005/Slides/slides7.pdf
+https://people.duke.edu/~hpgavin/cee201/LagrangeMultipliers.pdf
+http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_LAGRANGE_METHOD.PDF
+https://ocw.mit.edu/courses/15-084j-nonlinear-programming-spring-2004/13b4c46d590cf3df94475e0ae1a815c3_lec10_penalty_mt.pdf
+https://courses.cs.washington.edu/courses/cse521/16sp/521-lecture-16.pdf
+https://www.youtube.com/watch?v=4TIbsTa3r24
+https://web.mit.edu/15.053/www/AMP-Chapter-04.pdf
+https://www.stat.cmu.edu/~ryantibs/convexopt-F15/scribes/11-dual-gen-scribed.pdf
+https://en.wikipedia.org/wiki/Infimum_and_supremum
+https://www.youtube.com/watch?v=QRGIhqz9vh4
+https://eml.berkeley.edu/~webfac/saez/e131_s04/shadow.pdf
+https://www.youtube.com/watch?v=GR4ff0dTLTw
+https://www.youtube.com/watch?v=EZi2M3F15GA
+https://www.youtube.com/watch?v=9jcWM-TUQHk
+https://www.youtube.com/watch?v=uh1Dk68cfWs
