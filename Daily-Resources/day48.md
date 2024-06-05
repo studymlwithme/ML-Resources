@@ -1,6 +1,6 @@
 # Day 48 
 
-Today I dove into the actual math and statistics behind regularization, which was weridly more complicated than I expected. It is always funny when I discover something that I have used hundreds if not thousands of times is actually has a lot more complexity than I would of assumed.
+Today I dove into the actual math and statistics behind regularization, which was weridly more complicated than I expected. It is always funny when I discover something that I have used hundreds if not thousands of times is actually has a lot more complex than I would of assumed.
 
 Resources: 
 
