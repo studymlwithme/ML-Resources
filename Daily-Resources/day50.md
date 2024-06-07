@@ -12,3 +12,7 @@ https://www.youtube.com/watch?v=I73oALP7iWA
 CS 229, Autumn 2009
 The Simplified SMO Algorithm
 https://cs229.stanford.edu/materials/smo.pdf
+
+SVM by Sequential Minimal
+Optimization (SMO)
+https://pages.cs.wisc.edu/~dpage/cs760/SMOlecture.pdf
